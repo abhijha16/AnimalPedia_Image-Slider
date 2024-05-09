@@ -341,7 +341,7 @@ body {
 }
 
 .animal-info {
-    max-width: 800px;
+    max-width: 650px;
     margin: 20px auto;
     padding: 20px;
     border: 1px solid #ddd;
@@ -356,7 +356,7 @@ body {
 }
 
 .animal-info img {
-    max-width: 100%;
+    max-width: 60%;
     height: auto;
     margin-bottom: 20px;
 }
